@@ -11,6 +11,8 @@ namespace Test01
         static void Main(string[] args)
         {
             Console.WriteLine("sex");
+            int a = 0;
+            int b = 2;
         }
     }
 }
