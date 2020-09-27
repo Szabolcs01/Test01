@@ -21,6 +21,12 @@ namespace Test01
             {
                 Console.WriteLine("efrf");
             }
+
+            int c = 23;
+            if (a+b<c)
+            {
+                Console.WriteLine("Janka szaros");
+            }
         }
     }
 }
