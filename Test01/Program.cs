@@ -13,6 +13,14 @@ namespace Test01
             Console.WriteLine("sex");
             int a = 0;
             int b = 2;
+            if (a>b)
+            {
+                Console.WriteLine("wdwqd");
+            }
+            else
+            {
+                Console.WriteLine("efrf");
+            }
         }
     }
 }
